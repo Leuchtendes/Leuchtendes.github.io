@@ -1,24 +1,24 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Valaxy Theme Yun",
-    "home_page_url": "https://valaxy.site/",
-    "feed_url": "https://valaxy.site/feed.json",
-    "description": "Valaxy Theme Yun Preview.",
-    "icon": "https://valaxy.site/valaxy-logo.png",
+    "title": "神以灵丶的小站",
+    "home_page_url": "https://leuchtendes.github.io/",
+    "feed_url": "https://leuchtendes.github.io/feed.json",
+    "description": "神以灵丶的小站.",
+    "icon": "https://www.yunyoujun.cn/images/avatar.jpg",
     "author": {
-        "name": "云游君",
+        "name": "神以灵丶",
         "url": "https://valaxy.site"
     },
     "items": [
         {
-            "id": "https://valaxy.site/posts/hello-valaxy",
-            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/hello-valaxy\" target=\"_blank\">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/hello-valaxy",
-            "title": "Hello, Valaxy!",
-            "date_modified": "2022-04-01T00:00:00.000Z",
-            "date_published": "2022-04-01T00:00:00.000Z",
+            "id": "https://leuchtendes.github.io/posts/posts",
+            "content_html": "<h2>第一节</h2>\n<p>« Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut lab</p>\n<br/><p>访问 <a href=\"https://leuchtendes.github.io/posts/posts\" target=\"_blank\">https://leuchtendes.github.io/posts/posts</a> 阅读全文。</p>",
+            "url": "https://leuchtendes.github.io/posts/posts",
+            "title": "本站正在建设中!",
+            "date_modified": "2026-01-12T00:00:00.000Z",
+            "date_published": "2026-01-12T00:00:00.000Z",
             "author": {
-                "name": "云游君",
+                "name": "神以灵丶",
                 "url": "https://valaxy.site"
             }
         }

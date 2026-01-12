@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Valaxy Theme Yun</title>
-        <link>https://valaxy.site/</link>
-        <description>Valaxy Theme Yun Preview.</description>
-        <lastBuildDate>Sat, 10 Jan 2026 15:52:32 GMT</lastBuildDate>
+        <title>神以灵丶的小站</title>
+        <link>https://leuchtendes.github.io/</link>
+        <description>神以灵丶的小站.</description>
+        <lastBuildDate>Mon, 12 Jan 2026 03:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Valaxy Theme Yun</title>
-            <url>https://valaxy.site/valaxy-logo.png</url>
-            <link>https://valaxy.site/</link>
+            <title>神以灵丶的小站</title>
+            <url>https://www.yunyoujun.cn/images/avatar.jpg</url>
+            <link>https://leuchtendes.github.io/</link>
         </image>
-        <copyright>CC BY-NC-SA 4.0 2026 © 云游君</copyright>
-        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <copyright>CC BY-NC-SA 4.0 2026 © 神以灵丶</copyright>
+        <atom:link href="https://leuchtendes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hello, Valaxy!]]></title>
-            <link>https://valaxy.site/posts/hello-valaxy</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/hello-valaxy</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
-<p>Write your first post!</p>
-<h2>Usage</h2>
-<p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (云游君)</author>
+            <title><![CDATA[本站正在建设中!]]></title>
+            <link>https://leuchtendes.github.io/posts/posts</link>
+            <guid isPermaLink="false">https://leuchtendes.github.io/posts/posts</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>第一节</h2>
+<p>« Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut lab</p>
+<br/><p>访问 <a href="https://leuchtendes.github.io/posts/posts" target="_blank">https://leuchtendes.github.io/posts/posts</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (神以灵丶)</author>
         </item>
     </channel>
 </rss>

@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://valaxy.site/</id>
-    <title>Valaxy Theme Yun</title>
-    <updated>2026-01-10T15:52:32.814Z</updated>
+    <id>https://leuchtendes.github.io/</id>
+    <title>神以灵丶的小站</title>
+    <updated>2026-01-12T03:13:07.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
-        <name>云游君</name>
+        <name>神以灵丶</name>
         <email>i@valaxy.site</email>
         <uri>https://valaxy.site</uri>
     </author>
-    <link rel="alternate" href="https://valaxy.site/"/>
-    <link rel="self" href="https://valaxy.site/atom.xml"/>
-    <subtitle>Valaxy Theme Yun Preview.</subtitle>
-    <logo>https://valaxy.site/valaxy-logo.png</logo>
-    <icon>https://valaxy.site/favicon.svg</icon>
-    <rights>CC BY-NC-SA 4.0 2026 © 云游君</rights>
+    <link rel="alternate" href="https://leuchtendes.github.io/"/>
+    <link rel="self" href="https://leuchtendes.github.io/atom.xml"/>
+    <subtitle>神以灵丶的小站.</subtitle>
+    <logo>https://www.yunyoujun.cn/images/avatar.jpg</logo>
+    <icon>https://leuchtendes.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © 神以灵丶</rights>
     <entry>
-        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
-        <id>https://valaxy.site/posts/hello-valaxy</id>
-        <link href="https://valaxy.site/posts/hello-valaxy"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
-<p>Write your first post!</p>
-<h2>Usage</h2>
-<p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <title type="html"><![CDATA[本站正在建设中!]]></title>
+        <id>https://leuchtendes.github.io/posts/posts</id>
+        <link href="https://leuchtendes.github.io/posts/posts"/>
+        <updated>2026-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>第一节</h2>
+<p>« Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut lab</p>
+<br/><p>访问 <a href="https://leuchtendes.github.io/posts/posts" target="_blank">https://leuchtendes.github.io/posts/posts</a> 阅读全文。</p>]]></content>
         <author>
-            <name>云游君</name>
+            <name>神以灵丶</name>
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2022-04-01T00:00:00.000Z</published>
+        <published>2026-01-12T00:00:00.000Z</published>
     </entry>
 </feed>
